@@ -1,0 +1,11 @@
+algorithm,determinism_size_check
+Keccak-f[1600],True
+Xoodoo,True
+Ascon-p[320],True
+Gimli,True
+ChaCha,True
+BLAKE2b-compression,True
+BLAKE3-compression,True
+Haraka-style-256,True
+Haraka-style-512,True
+GBS-photonic,True

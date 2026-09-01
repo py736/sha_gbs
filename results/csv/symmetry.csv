@@ -1,0 +1,11 @@
+algorithm,type,samples,byte_reversal_symmetry_rate,cyclic_rotation_symmetry_rate,self_inverse_rate_F_F_X_eq_X,note
+Keccak-f[1600],permutation,500,0.0,0.0,0.0,
+Xoodoo,permutation,500,0.0,0.0,0.0,
+Ascon-p[320],permutation,500,0.0,0.0,0.0,
+Gimli,permutation,500,0.0,0.0,0.0,
+ChaCha,ARX core,500,0.0,0.0,0.0,
+BLAKE2b-compression,compression function,500,0.0,0.0,0.0,
+BLAKE3-compression,compression function,500,0.0,0.0,0.0,
+Haraka-style-256,AES-based experiment,500,0.0,0.0,0.0,
+Haraka-style-512,AES-based experiment,500,0.0,0.0,0.0,
+GBS-photonic,GBS-derived 1600-bit research permutation,500,0.0,0.0,0.0,

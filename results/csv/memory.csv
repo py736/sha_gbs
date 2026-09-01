@@ -1,0 +1,11 @@
+algorithm,state_bytes,peak_traced_bytes_per_20_calls,approx_peak_bytes_per_call
+Gimli,48,1838,91.9
+ChaCha,64,2098,104.9
+GBS-photonic,200,2346,117.3
+Ascon-p[320],40,2600,130.0
+Xoodoo,48,4176,208.8
+BLAKE2b-compression,128,5138,256.9
+Keccak-f[1600],200,5147,257.35
+Haraka-style-256,32,10257,512.85
+Haraka-style-512,64,11843,592.15
+BLAKE3-compression,64,1878710,93935.5

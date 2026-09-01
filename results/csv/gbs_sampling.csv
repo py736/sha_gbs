@@ -1,0 +1,2 @@
+modes,samples,cryptographic_state_bits,unique_threshold_samples,collision_rate,mean_clicks,std_clicks
+8,5000,1600,87,0.9826,2.3088,1.8938214995015754

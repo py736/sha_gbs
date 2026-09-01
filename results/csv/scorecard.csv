@@ -1,0 +1,28 @@
+category,test_id,test,internally_computed,algorithms_covered
+A. Performance,A1,Latency (per-call),True,10.0
+A. Performance,A2,Throughput (MB/s),True,10.0
+A. Performance,A4,Memory footprint (tracemalloc),True,10.0
+A. Performance,A5,Code size / complexity,True,10.0
+B. Diffusion,B1,Avalanche effect,True,10.0
+B. Diffusion,B2,Strict Avalanche Criterion (SAC),True,10.0
+B. Diffusion,B3,Bit Independence Criterion (BIC),True,10.0
+B. Diffusion,B4,Diffusion per round (first-r-round),True,8.0
+C. Cryptanalysis,C1,Differential screening,True,10.0
+C. Cryptanalysis,C2,Linear screening,True,10.0
+C. Cryptanalysis,C3,Projected algebraic degree,True,10.0
+C. Cryptanalysis,C4,Projected Boolean nonlinearity,True,10.0
+C. Cryptanalysis,C5,Symmetry analysis,True,10.0
+D. Statistical,D1,Byte-frequency chi-square,True,10.0
+D. Statistical,D2,Runs test (bitstream),True,10.0
+D. Statistical,D3,Shannon entropy,True,10.0
+D. Statistical,D4a,"NIST STS (nistrng, real execution)",True,10.0
+D. Statistical,D4b,Dieharder (real execution if binary present),False,
+E. Structural,E1,Fixed points,True,10.0
+E. Structural,E2,Complementarity,True,10.0
+E. Structural,E3,Invariant output-bit structure,True,10.0
+E. Structural,E4,"Low-round behavior (r=1,2 summary)",True,8.0
+E. Structural,E5,GBS-1600 sampled permutation/inverse structure,True,
+F. Hash/Sponge,F1,SHA3-256 sponge KAT,True,
+F. Hash/Sponge,F2,SHAKE-256 XOF validation,True,
+F. Hash/Sponge,F3,SHA3 boundary messages,True,
+F. Hash/Sponge,F4,Long-message sponge test,True,

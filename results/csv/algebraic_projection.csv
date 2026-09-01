@@ -1,0 +1,11 @@
+algorithm,type,state_bits,projection_input_bits,projection_output_bit,ANF_degree,Boolean_nonlinearity,maximum_Walsh_magnitude
+Keccak-f[1600],permutation,1600,8,0,8,109,38
+Xoodoo,permutation,384,8,0,8,105,46
+Ascon-p[320],permutation,320,8,0,8,99,58
+Gimli,permutation,384,8,0,7,108,40
+ChaCha,ARX core,512,8,0,7,102,52
+BLAKE2b-compression,compression function,1024,8,0,7,104,48
+BLAKE3-compression,compression function,512,8,0,8,103,50
+Haraka-style-256,AES-based experiment,256,8,0,7,98,60
+Haraka-style-512,AES-based experiment,512,8,0,8,103,50
+GBS-photonic,GBS-derived 1600-bit research permutation,1600,8,0,8,105,46

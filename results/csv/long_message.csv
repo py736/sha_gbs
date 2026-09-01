@@ -1,0 +1,4 @@
+message_bytes,absorbed_blocks,runtime_seconds,matches_hashlib
+10000,74,0.057606100002885796,True
+100000,736,0.6397010000000591,True
+1000000,7353,5.022604099998716,True

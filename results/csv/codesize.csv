@@ -1,0 +1,11 @@
+algorithm,core_function,source_lines_noncomment,source_bytes
+GBS-photonic,permutation_int,4,265
+ChaCha,chacha_qr,9,293
+Haraka-style-512,haraka_style,13,573
+Haraka-style-256,haraka_style,13,573
+BLAKE3-compression,blake3_compression,16,572
+Keccak-f[1600],keccak_round,18,612
+BLAKE2b-compression,blake2b_compression,21,843
+Gimli,gimli,23,955
+Xoodoo,xoodoo_round,25,832
+Ascon-p[320],ascon_round,26,573

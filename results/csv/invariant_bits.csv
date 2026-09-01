@@ -1,0 +1,11 @@
+algorithm,type,samples,output_bits_tested,invariant_bit_count,invariant_bit_fraction,max_abs_deviation_from_50pct
+Keccak-f[1600],permutation,2000,256,0,0.0,0.03300000000000003
+Xoodoo,permutation,2000,256,0,0.0,0.035499999999999976
+Ascon-p[320],permutation,2000,256,0,0.0,0.044499999999999984
+Gimli,permutation,2000,256,0,0.0,0.032999999999999974
+ChaCha,ARX core,2000,256,0,0.0,0.03749999999999998
+BLAKE2b-compression,compression function,2000,256,0,0.0,0.033499999999999974
+BLAKE3-compression,compression function,2000,256,0,0.0,0.03249999999999997
+Haraka-style-256,AES-based experiment,2000,256,0,0.0,0.02849999999999997
+Haraka-style-512,AES-based experiment,2000,256,0,0.0,0.031000000000000028
+GBS-photonic,GBS-derived 1600-bit research permutation,2000,256,0,0.0,0.03200000000000003

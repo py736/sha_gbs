@@ -1,0 +1,11 @@
+algorithm,state_bytes,state_bits,rounds,type
+Keccak-f[1600],200,1600,24,permutation
+Xoodoo,48,384,12,permutation
+Ascon-p[320],40,320,12,permutation
+Gimli,48,384,24,permutation
+ChaCha,64,512,20,ARX core
+BLAKE2b-compression,128,1024,12,compression function
+BLAKE3-compression,64,512,7,compression function
+Haraka-style-256,32,256,5,AES-based experiment
+Haraka-style-512,64,512,5,AES-based experiment
+GBS-photonic,200,1600,8,GBS-derived 1600-bit research permutation

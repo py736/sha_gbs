@@ -1,0 +1,11 @@
+algorithm,type,state_bits,samples,fixed_point_rate,complementarity_rate,same_output_under_complement_rate
+Keccak-f[1600],permutation,1600,2000,0.0,0.0,0.0
+Xoodoo,permutation,384,2000,0.0,0.0,1.0
+Ascon-p[320],permutation,320,2000,0.0,0.0,0.0
+Gimli,permutation,384,2000,0.0,0.0,0.0
+ChaCha,ARX core,512,2000,0.0,0.0,0.0
+BLAKE2b-compression,compression function,1024,2000,0.0,0.0,0.0
+BLAKE3-compression,compression function,512,2000,0.0,0.0,0.0
+Haraka-style-256,AES-based experiment,256,2000,0.0,0.0,0.0
+Haraka-style-512,AES-based experiment,512,2000,0.0,0.0,0.0
+GBS-photonic,GBS-derived 1600-bit research permutation,1600,2000,0.0,0.0,0.0
